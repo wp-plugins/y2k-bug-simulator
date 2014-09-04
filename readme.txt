@@ -2,7 +2,7 @@
 Contributors: James Luberda
 Tags: bugs, y2k, millenium, entertainment
 Requires at least: 3.8.1
-Tested up to: 3.9
+Tested up to: 4.0 
 Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -48,6 +48,9 @@ See above re: themes.
 1. Screenshot demonstrating the effects of the plugin when activated. Note the changes to the page title, the post date, and the dates listed under "Recent Posts"
 
 == Changelog ==
+
+= 1.1 =
+* Tested up to WP 4.0. Added icon.
 
 = 1.0 =
 * Initial release.

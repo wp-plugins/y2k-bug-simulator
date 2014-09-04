@@ -7,7 +7,7 @@ Plugin Name: Y2K Bug Simulator
 Plugin URI: http://sp.uconn.edu/~jbl00001/jbl-y2k.zip
 Description: Renders the year as if a Y2K bug were present
 Author: James Luberda
-Version: 1.0
+Version: 1.1
 Author URI: http://sp.uconn.edu/~jbl00001
 License: GPLv2 or later
 */
@@ -31,7 +31,7 @@ Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
 
 // verify plugin is not being called directly
 if ( !function_exists( 'add_action' ) ) {
-        echo 'This is a plugin and only functions when called by WordPress\n';
+        echo "This is a plugin and only functions when called by WordPress\n";
         exit;
 }
 
